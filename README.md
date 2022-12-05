@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-nayeem
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in Python programming and Linux 
 - 🌱 I’m currently learning python and Shell Scripting 
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me mn.esvd@gmail.com 
